@@ -1,0 +1,4 @@
+-DDEBUG
+-include ../common
+-include ../core
+-I/usr/include/bullet
